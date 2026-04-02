@@ -1,4 +1,4 @@
-# REVV Web
+# revvweb
 
 Standalone sales and members site for REVV.
 
